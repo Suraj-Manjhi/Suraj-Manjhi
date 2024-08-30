@@ -1,3 +1,5 @@
+![logo](https://github.com/Suraj-Manjhi/Suraj-Manjhi/blob/main/Blue%20Futuristic%20Technology%20Linkedln%20Banner%20(3).jpg)
+
 <h1 align="center">Hi 👋, I'm Suraj Manjhi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
