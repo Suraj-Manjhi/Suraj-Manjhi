@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **manjhisuraj497@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18rYyIMvL6sObHyA50hMMRawDfu3y5rcS/view](https://drive.google.com/file/d/18rYyIMvL6sObHyA50hMMRawDfu3y5rcS/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1R1zRRXP5W8SrOvCT7Y4NkffsfHYWv-sy/view?usp=drive_link]
 
 - ⚡ Fun fact **I am Data Analysis Learner**
 
