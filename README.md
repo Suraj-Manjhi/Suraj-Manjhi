@@ -7,8 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suraj-manjhi&label=Profile%20views&color=0e75b6&style=flat" alt="suraj-manjhi" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://surajmanjhi.netlify.app/](https://surajmanjhi.netlify.app/)
-
+- 👨‍💻 All of my projects are available at [https://suraj-manjhi.netlify.app/]
 - 📫 How to reach me **manjhisuraj497@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1R1zRRXP5W8SrOvCT7Y4NkffsfHYWv-sy/view?usp=drive_link]
